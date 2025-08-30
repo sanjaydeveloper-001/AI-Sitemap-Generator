@@ -30,6 +30,10 @@ function Home() {
           🚀 Generate Your Sitemap
         </Link>
       </motion.div>
+      <p className="text-center text-sm text-gray-500 mt-6">
+          Made with <span className="text-red-500">❤️</span> by{" "}
+          <span className="font-semibold">Sanjay</span>
+        </p>
     </div>
   );
 }
